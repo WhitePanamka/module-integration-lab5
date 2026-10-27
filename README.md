@@ -31,3 +31,4 @@ py main.py
 - `feature/main-integration`
 
 Изменения интегрируются в `main` через Pull Request после проверки другим участником команды.
+Участник разработки: ivankalin06-star. Работа выполнена в отдельной ветке feature/ivankalinkin.
